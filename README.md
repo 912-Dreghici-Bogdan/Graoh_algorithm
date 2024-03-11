@@ -1,9 +1,10 @@
 # Graph_algorithms
 
-Welcome to the repository for the Graph algoritms course laboratories! This repository contains the implementation of 3 laboratory exercises designed to reinforce the understanding of graphs algorthms and their applications.
+Welcome to the repository for the Graph algorithms course laboratories! This repository contains the implementation of 3 laboratory exercises designed to reinforce the understanding of graphs algorithms and their applications.
 
 # 🗂️Lab1
-Design and implement an abstract data type directed graph and a function for reading a directed graph from a text file.
+Design and implement an abstract data type-directed graph and a function for reading a directed graph from a text file.
+
 The functionalities are as follows:
 - Number of Vertices
 - Iterate through Vertices
@@ -18,3 +19,5 @@ The functionalities are as follows:
 - Read Graph from Text File
 - Write Graph to Text File
 - Create Random Graph
+
+# 🗂️Lab2
